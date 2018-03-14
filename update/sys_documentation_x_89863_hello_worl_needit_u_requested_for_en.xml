@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_requested_for" label="Requested for" language="en" table="x_89863_hello_worl_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <help/>
+            <hint/>
+            <label>Requested for</label>
+            <language>en</language>
+            <name>x_89863_hello_worl_needit</name>
+            <plural>Requested for</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jeff.cooke</sys_created_by>
+            <sys_created_on>2018-03-14 19:34:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>25880b5adb345300836ed360cf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested for</sys_name>
+            <sys_package display_value="Hello World" source="x_89863_hello_worl">ad2c55c2db301300836ed360cf96191e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hello World">ad2c55c2db301300836ed360cf96191e</sys_scope>
+            <sys_update_name>sys_documentation_x_89863_hello_worl_needit_u_requested_for_en</sys_update_name>
+            <sys_updated_by>jeff.cooke</sys_updated_by>
+            <sys_updated_on>2018-03-14 19:34:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

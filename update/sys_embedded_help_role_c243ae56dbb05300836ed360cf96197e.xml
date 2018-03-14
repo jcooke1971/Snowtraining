@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_89863_hello_worl.needit_user" name="x_89863_hello_worl.needit_user">7d43ae56dbb05300836ed360cf96197a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jeff.cooke</sys_created_by>
+        <sys_created_on>2018-03-14 16:51:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c243ae56dbb05300836ed360cf96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7d43ae56dbb05300836ed360cf96197a</sys_name>
+        <sys_package display_value="Hello World" source="x_89863_hello_worl">ad2c55c2db301300836ed360cf96191e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hello World">ad2c55c2db301300836ed360cf96191e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c243ae56dbb05300836ed360cf96197e</sys_update_name>
+        <sys_updated_by>jeff.cooke</sys_updated_by>
+        <sys_updated_on>2018-03-14 16:51:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
